@@ -28,6 +28,18 @@
 
    <img width="1379" height="255" alt="image" src="https://github.com/user-attachments/assets/614558a0-9125-4324-a902-eb0e37c9e72e" />
 
+   Create you ECR Repository
+   <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/660edb68-b3ab-41ad-adcc-e21eda58c154" />
+
+   
+
+
+   Push you docker image to the ecr repository
+  <img width="1511" height="584" alt="image" src="https://github.com/user-attachments/assets/c26c6b2f-1e13-4953-b02b-cd4c3f9e04c6" />
+
+   
+
+
    
 
 
