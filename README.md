@@ -28,14 +28,42 @@
 
    <img width="1379" height="255" alt="image" src="https://github.com/user-attachments/assets/614558a0-9125-4324-a902-eb0e37c9e72e" />
 
+   Login to the aws ecr and Tag your docker image
+   <img width="1027" height="128" alt="image" src="https://github.com/user-attachments/assets/316df9b6-43ea-445b-b194-9120d3debffd" />
+
    Create you ECR Repository
    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/660edb68-b3ab-41ad-adcc-e21eda58c154" />
-
-   
 
 
    Push you docker image to the ecr repository
   <img width="1511" height="584" alt="image" src="https://github.com/user-attachments/assets/c26c6b2f-1e13-4953-b02b-cd4c3f9e04c6" />
+
+  Check that your docker image has been successfully pushed
+  <img width="981" height="272" alt="image" src="https://github.com/user-attachments/assets/a058ae71-038b-4e58-aa78-24693682863f" />
+
+  <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/991e56f4-cf39-4be4-bf94-3cca254811f4" />
+
+  Upon pushing the docker image , through task definition in the ecs terraform file it automatically deploys the application upon passing health checks
+  <img width="1916" height="1037" alt="image" src="https://github.com/user-attachments/assets/c6d7f1a8-f120-42f9-9938-34819fcc742f" />
+
+Go to the Load balancer console
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/d4aa8a80-138d-4289-9093-3e27f7d7245f" />
+
+Copy out the DNS name
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/c15a1788-32ff-41ca-98a7-c24021caf9ee" />
+
+Access the application on your browser
+<img width="1901" height="975" alt="image" src="https://github.com/user-attachments/assets/e52b0ef8-edf5-43a6-84f7-598204341a3c" />
+
+
+
+
+
+
+
+
+
+  
 
    
 
